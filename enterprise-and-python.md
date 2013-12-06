@@ -7,6 +7,7 @@
 
 ## Django
 
+* Auto123
 * Ecometrica
 * Bunch
 * Caravan.coop
