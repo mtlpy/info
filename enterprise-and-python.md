@@ -12,7 +12,8 @@
 * Office National du Film
 * Savoir-Faire Linux
 * w.illi.am/
-* Agence Universitaire de la Francophonie (AUF)
+* Agence universitaire de la francophonie (AUF)
+* Service régional d'admission du montréal métropolitain (SRAM)
 
 ## Other
 
