@@ -19,4 +19,5 @@
 * Environnment Canada - Service météorologique
 * Google
 * Outbox Technology
+* Radialpoint
 * Ubisoft
