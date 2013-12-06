@@ -16,7 +16,7 @@
 
 ## Other
 
-* Enovance
+* eNovance
 * Environnment Canada - Service météorologique
 * Google
 * Outbox Technology
