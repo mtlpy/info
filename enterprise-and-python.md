@@ -12,7 +12,7 @@
 * Office National du Film
 * Savoir-Faire Linux
 * w.illi.am/
-
+* Agence Universitaire de la Francophonie (AUF)
 
 ## Other
 
