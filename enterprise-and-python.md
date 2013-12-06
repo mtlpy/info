@@ -30,6 +30,7 @@
 * Google
 * ModusFX
 * Outbox Technology
+* Pivotal Payments
 * Plotly
 * Radialpoint
 * Ubisoft
