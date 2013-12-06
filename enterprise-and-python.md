@@ -16,5 +16,6 @@
 
 ## Other
 
-* Google
 * Environnment Canada - Service météorologique
+* Google
+* Ubisoft
