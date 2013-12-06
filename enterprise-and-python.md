@@ -1,14 +1,14 @@
-Pyramid + Pylons
-================
-Ajah
-Ludia
-Outbox
+## Pyramid + Pylons
 
-Django
-======
-Ecometrica
-Bunch
-Caravan.coop
-Office National du Film
-Savoir-Faire Linux
-w.ili.am/
+* Ajah
+* Ludia
+* Outbox
+
+## Django
+
+* Ecometrica
+* Bunch
+* Caravan.coop
+* Office National du Film
+* Savoir-Faire Linux
+* w.ili.am/
