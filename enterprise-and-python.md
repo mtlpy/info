@@ -1,7 +1,6 @@
 ## Pyramid + Pylons
 
 * Ajah
-* Caravan.coop
 * Ludia
 * Real Fan Blast
 * Ubity
@@ -9,6 +8,7 @@
 ## Django
 
 * Auto123
+* Caravan.coop
 * Ecometrica
 * Bunch
 * Office National du Film
