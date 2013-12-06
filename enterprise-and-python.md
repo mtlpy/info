@@ -30,5 +30,6 @@
 * Google
 * ModusFX
 * Outbox Technology
+* Plotly
 * Radialpoint
 * Ubisoft
