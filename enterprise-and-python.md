@@ -31,6 +31,7 @@
 * Environnment Canada - Service météorologique
 * Gameloft
 * Google
+* Idilia
 * ModusFX
 * NeuroRx
 * Nuance Communications
