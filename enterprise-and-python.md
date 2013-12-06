@@ -25,6 +25,7 @@
 ## Other
 
 * Brandicted
+* Canonical
 * DTI Software inc.
 * Environnment Canada - Service météorologique
 * Gameloft
