@@ -16,9 +16,13 @@
 * Agence universitaire de la francophonie (AUF)
 * Service régional d'admission du montréal métropolitain (SRAM)
 
-## Other
+## Openstack
 
 * eNovance
+* iWeb
+
+## Other
+
 * Environnment Canada - Service météorologique
 * Google
 * Outbox Technology
