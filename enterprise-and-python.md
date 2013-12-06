@@ -31,6 +31,7 @@
 * Google
 * ModusFX
 * NeuroRx
+* Nuance Communications
 * Outbox Technology
 * Pivotal Payments
 * Plotly
