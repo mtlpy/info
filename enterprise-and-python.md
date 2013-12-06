@@ -26,6 +26,7 @@
 
 * DTI Software inc.
 * Environnment Canada - Service météorologique
+* Gameloft
 * Google
 * Outbox Technology
 * Radialpoint
