@@ -34,4 +34,5 @@
 * Pivotal Payments
 * Plotly
 * Radialpoint
+* Shotgun Software
 * Ubisoft
