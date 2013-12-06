@@ -1,6 +1,7 @@
 ## Pyramid + Pylons
 
 * Ajah
+* Caravan.coop
 * Ludia
 * Real Fan Blast
 * Ubity
@@ -10,7 +11,6 @@
 * Auto123
 * Ecometrica
 * Bunch
-* Caravan.coop
 * Office National du Film
 * Savoir-Faire Linux
 * w.illi.am/
