@@ -2,6 +2,7 @@
 
 * Ajah
 * Ludia
+* Real Fan Blast
 * Ubity
 
 ## Django
