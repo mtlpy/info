@@ -29,6 +29,7 @@
 * Gameloft
 * Google
 * ModusFX
+* NeuroRx
 * Outbox Technology
 * Pivotal Payments
 * Plotly
