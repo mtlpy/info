@@ -28,6 +28,7 @@
 * Environnment Canada - Service météorologique
 * Gameloft
 * Google
+* ModusFX
 * Outbox Technology
 * Radialpoint
 * Ubisoft
