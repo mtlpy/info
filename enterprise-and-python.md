@@ -2,7 +2,6 @@
 
 * Ajah
 * Ludia
-* Outbox
 
 ## Django
 
@@ -18,4 +17,5 @@
 
 * Environnment Canada - Service météorologique
 * Google
+* Outbox
 * Ubisoft
