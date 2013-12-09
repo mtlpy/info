@@ -46,4 +46,5 @@
 * Plotly
 * Radialpoint
 * Shotgun Software
+* Société des arts technologiques
 * Ubisoft
