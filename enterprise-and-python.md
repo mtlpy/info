@@ -7,16 +7,17 @@
 
 ## Django
 
+* Agence universitaire de la francophonie (AUF)
 * Archambault
 * Auto123
+* Bunch
 * Caravan.coop
 * Ecometrica
-* Bunch
+* Nurun
 * Office National du Film
 * Savoir-Faire Linux
 * w.illi.am/
 * Wajam
-* Agence universitaire de la francophonie (AUF)
 * Service régional d'admission du montréal métropolitain (SRAM)
 
 ## Openstack
