@@ -14,6 +14,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Ajah
 * Ludia
 * Real Fan Blast
+* Service régional d'admission du montréal métropolitain (SRAM)
 * Ubity
 
 ## Django
@@ -30,7 +31,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Savoir-Faire Linux
 * w.illi.am/
 * Wajam
-* Service régional d'admission du montréal métropolitain (SRAM)
 
 ## Openstack
 
