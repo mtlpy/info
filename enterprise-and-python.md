@@ -1,5 +1,8 @@
-Qui fais du Python à Montréal / Who is using Python in Montréal ?
-=================================================================
+Qui fais du Python à Montréal ?
+===============================
+
+Who is using Python in Montréal ?
+=================================
 
 Présentation
 ------------
