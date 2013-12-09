@@ -27,6 +27,7 @@
 
 ## Other
 
+* BullBear
 * Brandicted
 * Canonical
 * Datacratic
