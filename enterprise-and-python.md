@@ -5,7 +5,7 @@ Présentation
 ------------
 Voici la liste des entreprises qui font du Python à Montréal. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
 
-Here are the enterprise who are using Python in Montreal. 
+Here are the enterprise who are using Python in Montreal.
 
 Please, just fork the repos and propose a pull request if you would like to fix something or add someone.
 
@@ -15,6 +15,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Ludia
 * Real Fan Blast
 * Service régional d'admission du montréal métropolitain (SRAM)
+* Tata Communications
 * Ubity
 
 ## Django
@@ -39,8 +40,8 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Other
 
-* BullBear
 * Brandicted
+* BullBear
 * Canonical
 * Datacratic
 * DTI Software inc.
@@ -58,4 +59,5 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Radialpoint
 * Shotgun Software
 * Société des arts technologiques
+* Tata Communications
 * Ubisoft
