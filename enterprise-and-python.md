@@ -38,6 +38,7 @@
 * NeuroRx
 * Nuance Communications
 * Outbox Technology
+* Photonic Knowledge
 * Pivotal Payments
 * Plotly
 * Radialpoint
