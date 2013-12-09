@@ -1,4 +1,4 @@
-Qui fais du Python à Montréal ?
+Qui fait du Python à Montréal ?
 ===============================
 
 Présentation
