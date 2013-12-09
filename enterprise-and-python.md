@@ -1,9 +1,6 @@
 Qui fais du Python à Montréal ?
 ===============================
 
-Who is using Python in Montréal ?
-=================================
-
 Présentation
 ------------
 Voici la liste des entreprises qui font du Python à Montréal. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
