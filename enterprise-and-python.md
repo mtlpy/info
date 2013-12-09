@@ -1,3 +1,14 @@
+Qui fais du Python à Montréal / Who is using Python in Montréal ?
+=================================================================
+
+Présentation
+------------
+Voici la liste des entreprises qui font du Python à Montréal. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
+
+Here are the enterprise who are using Python in Montreal. 
+
+Please, just fork the repos and propose a pull request if you would like to fix something or add someone.
+
 ## Pyramid + Pylons
 
 * Ajah
