@@ -49,6 +49,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Gameloft
 * Google
 * Idilia
+* Imagination for People
 * Océan itératif / Iterative Ocean
 * ModusFX
 * NeuroRx
