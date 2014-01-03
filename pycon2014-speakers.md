@@ -4,7 +4,7 @@ Speakers from Montreal at PyCon 2014
 Introduction
 ------------
 
-PyCon is going to be there in april, who is speaking from Montreal ?
+PyCon is coming, and we wanted to build a list of presenters from Montreal.
 
 
 ## Posters
