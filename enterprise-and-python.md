@@ -12,12 +12,12 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Pyramid + Pylons
 
 * Ajah
+* BitCredits.io
 * Ludia
 * Real Fan Blast
 * Service régional d'admission du montréal métropolitain (SRAM)
 * Tata Communications
 * Ubity
-* BitCredits.io
 
 ## Django
 
