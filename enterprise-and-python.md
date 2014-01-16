@@ -43,6 +43,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 * Brandicted
 * BullBear
+* busbud
 * Canonical
 * Datacratic
 * DTI Software inc.
