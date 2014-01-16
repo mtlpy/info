@@ -45,6 +45,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Canonical
 * Datacratic
 * DTI Software inc.
+* Eightysix Labs
 * Environnment Canada - Service météorologique
 * Gameloft
 * Google
