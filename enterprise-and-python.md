@@ -54,6 +54,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Imagination for People
 * Océan itératif / Iterative Ocean
 * ModusFX
+* Motsai Research / Recherche Motsai
 * NeuroRx
 * Nuance Communications
 * Outbox Technology
