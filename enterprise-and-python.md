@@ -54,6 +54,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Idilia
 * Imagination for People
 * Océan itératif / Iterative Ocean
+* Mantika inc.
 * ModusFX
 * Motsai Research / Recherche Motsai
 * NeuroRx
