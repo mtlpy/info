@@ -23,4 +23,5 @@ PyCon is coming, and we wanted to build a list of presenters from Montreal.
 ## Lighting Talks
 
 * Greg Ward : Documenting History, or How to Write Great Commit Messages
+
 ## Tutorial
