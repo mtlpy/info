@@ -13,3 +13,4 @@ https://us.pycon.org/2014/5k/
 And add your name to the following list:
 
 * Mathieu Leduc-Hamel
+* Ronan Jouchet
