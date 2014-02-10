@@ -14,3 +14,4 @@ And add your name to the following list:
 
 * Mathieu Leduc-Hamel
 * Ronan Jouchet
+* [Philippe Gauthier](//github.com/deuxpi)
