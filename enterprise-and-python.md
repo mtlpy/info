@@ -33,6 +33,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Savoir-Faire Linux
 * w.illi.am/
 * Wajam
+* [Moving Picture Companies](http://www.moving-picture.com/)
 
 ## Openstack
 
@@ -49,7 +50,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * DTI Software inc.
 * Eightysix Labs
 * Environnment Canada - Service météorologique
-* Gameloft
 * Google
 * Idilia
 * Imagination for People
@@ -68,3 +68,13 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Société des arts technologiques
 * Tata Communications
 * Ubisoft
+* [Autodesk](http://www.autodesk.com/)
+* [Digital Dimension](http://www.digitaldimension.com/)
+* [Framestore](http://www.framestore-cfc.com)
+* [Gameloft](http://www.gameloft.fr/)
+* [Mikros Image](http://www.mikrosimage.ca/)
+* [Mokko Studio](http://www.mokkostudio.com/)
+* [Moving Picture Companies](http://www.moving-picture.com/)
+* [Rodeo FX](http://www.rodeofx.com/)
+* [Vision Globale](http://www.visionglobale.com/)
+
