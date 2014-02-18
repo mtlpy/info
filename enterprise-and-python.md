@@ -63,10 +63,10 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Photonic Knowledge
 * Pivotal Payments
 * Plotly
-* Radialpoint
+* [Radialpoint](www.radialpoint.com/)
 * Shotgun Software
-* Société des arts technologiques
-* Tata Communications
+* [Société des arts technologiques](https://sat.qc.ca/)
+* [Tata Communications](http://www.tatacommunications.com/)
 * Ubisoft
 * [Autodesk](http://www.autodesk.com/)
 * [Digital Dimension](http://www.digitaldimension.com/)
@@ -77,4 +77,5 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Moving Picture Companies](http://www.moving-picture.com/)
 * [Rodeo FX](http://www.rodeofx.com/)
 * [Vision Globale](http://www.visionglobale.com/)
+
 
