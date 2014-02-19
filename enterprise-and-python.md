@@ -42,39 +42,38 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Other
 
-* Brandicted
-* BullBear
-* busbud
-* Canonical
-* Datacratic
-* DTI Software inc.
-* Eightysix Labs
-* Environnment Canada - Service météorologique
-* Google
-* Idilia
-* Imagination for People
-* Océan itératif / Iterative Ocean
-* Mantika inc.
-* ModusFX
-* Motsai Research / Recherche Motsai
-* NeuroRx
-* Nuance Communications
-* Outbox Technology
-* Photonic Knowledge
-* Pivotal Payments
-* Plotly
-* Radialpoint
-* Shotgun Software
-* Société des arts technologiques
-* Tata Communications
-* Ubisoft
 * [Autodesk](http://www.autodesk.com/)
+* [Brandicted](https://brandicted.com/)
+* [BullBear](http://www.bullbear.ca/)
+* [Busbud](http://www.busbud.com/en/)
+* [Canonical](http://www.canonical.com/careers)
+* [DTI Software inc.](http://dtisoftware.com/)
+* [Datacratic](http://datacratic.com/site/)
 * [Digital Dimension](http://www.digitaldimension.com/)
+* [Eightysix Labs](http://www.eightysix.is/)
+* [Environnment Canada - Service météorologique](https://weather.gc.ca/canada_e.html)
 * [Framestore](http://www.framestore-cfc.com)
 * [Gameloft](http://www.gameloft.fr/)
+* [Google](https://www.google.com/about/jobs/search/#t=sq&q=j&d=montreal&li=10&j=montreal)
+* [Idilia](http://www.idilia.com/)
+* [Imagination for People](http://imaginationforpeople.org/en/)
+* Mantika inc.
 * [Mikros Image](http://www.mikrosimage.ca/)
+* [ModusFX](http://www.modusfx.com/)
 * [Mokko Studio](http://www.mokkostudio.com/)
+* [Motsai Research](http://www.motsai.com/en/) / [Recherche Motsai](http://www.motsai.com/fr/)
 * [Moving Picture Companies](http://www.moving-picture.com/)
+* [NeuroRx](http://www.neurorx.com/)
+* [Nuance Communications](http://www.nuance.com/index.htm)
+* Océan itératif / Iterative Ocean
+* [Outbox Technology](http://www.outboxtechnology.com/)
+* [Photonic Knowledge](http://www.photonicknowledge.com/)
+* [Pivotal Payments](http://www.pivotalpayments.com/)
+* [Plotly](https://plot.ly/)
+* [Radialpoint](www.radialpoint.com/)
 * [Rodeo FX](http://www.rodeofx.com/)
+* [Shotgun Software](https://www.shotgunsoftware.com/)
+* [Société des arts technologiques](https://sat.qc.ca/)
+* [Tata Communications](http://www.tatacommunications.com/)
+* [Ubisoft](https://www.ubisoftgroup.com/fr-FR/recrutement/index.aspx)
 * [Vision Globale](http://www.visionglobale.com/)
-
