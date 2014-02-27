@@ -11,34 +11,34 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Pyramid + Pylons
 
-* Ajah
-* BitCredits.io
-* Ludia
-* Real Fan Blast
-* Service régional d'admission du montréal métropolitain (SRAM)
-* Tata Communications
-* Ubity
+* [Ajah](http://ajah.ca/home/)
+* [BitCredits.io](http://BitCredits.io/)
+* [Ludia](http://www.ludia.com/)
+* [Real Fan Blast](http://www.realfanblast.com/)
+* [Service régional d'admission du montréal métropolitain (SRAM)](https://www.sram.qc.ca/home)
+* [Tata Communications](http://www.tatacommunications.com/)
+* [Ubity](http://ubity.com/)
 
 ## Django
 
-* Agence universitaire de la francophonie (AUF)
-* Archambault
-* Auto123
-* Bunch
-* Caravan.coop
-* Ecometrica
-* Nurun
-* Office National du Film
-* Reptiletech
-* Savoir-Faire Linux
-* w.illi.am/
-* Wajam
+* [Agence universitaire de la francophonie (AUF)](http://www.auf.org/)
+* [Archambault](http://www.archambault.ca/)
+* [Auto123](http://www.auto123.com/en/)
+* [Bunch](https://www.joinbunch.com/)
+* [Caravan.coop](http://caravan.coop/en/)
+* [Ecometrica](http://ecometrica.com/)
+* [Nurun](https://www.nurun.com/en/)
+* [Office National du Film](https://www.onf.ca/)
+* [Reptiletech](http://www.reptiletech.com/en/)
+* [Savoir-Faire Linux](https://www.savoirfairelinux.com/en/)
+* [w.illi.am/](http://w.illi.am/fr/)
+* [Wajam](http://www.wajam.com/)
 * [Moving Picture Companies](http://www.moving-picture.com/)
 
 ## Openstack
 
-* eNovance
-* iWeb
+* [eNovance](https://www.enovance.com/)
+* [iWeb](http://iweb.com/)
 
 ## Other
 
