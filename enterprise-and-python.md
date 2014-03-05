@@ -12,6 +12,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Pyramid + Pylons
 
 * [Ajah](http://ajah.ca/home/)
+* [GraffMap](http://graffmap.com/)
 * [BitCredits.io](http://BitCredits.io/)
 * [Ludia](http://www.ludia.com/)
 * [Real Fan Blast](http://www.realfanblast.com/)
@@ -27,10 +28,12 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Bunch](https://www.joinbunch.com/)
 * [Caravan.coop](http://caravan.coop/en/)
 * [Ecometrica](http://ecometrica.com/)
+* [ListRunner](http://listrunnerapp.com/)
 * [Nurun](https://www.nurun.com/en/)
 * [Office National du Film](https://www.onf.ca/)
 * [Reptiletech](http://www.reptiletech.com/en/)
 * [Savoir-Faire Linux](https://www.savoirfairelinux.com/en/)
+* [SolversMarket](http://solversmarket.com/)
 * [w.illi.am/](http://w.illi.am/fr/)
 * [Wajam](http://www.wajam.com/)
 * [Moving Picture Companies](http://www.moving-picture.com/)
@@ -42,6 +45,8 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Other
 
+* [Airmailplus](http://airmailplus.com/)
+* [ChallengeU](http://challengeu.com/)
 * [Autodesk](http://www.autodesk.com/)
 * [Brandicted](https://brandicted.com/)
 * [BullBear](http://www.bullbear.ca/)
@@ -51,6 +56,8 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [DTI Software inc.](http://dtisoftware.com/)
 * [Datacratic](http://datacratic.com/site/)
 * [Digital Dimension](http://www.digitaldimension.com/)
+* [DogSyncApp](http://dogsyncapp.com/)
+* [E-180](http://www.e-180.com/)
 * [Eightysix Labs](http://www.eightysix.is/)
 * [Environnment Canada - Service météorologique](https://weather.gc.ca/canada_e.html)
 * [Framestore](http://www.framestore-cfc.com)
