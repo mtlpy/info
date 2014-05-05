@@ -63,6 +63,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Framestore](http://www.framestore-cfc.com)
 * [Gameloft](http://www.gameloft.fr/)
 * [Google](https://www.google.com/about/jobs/search/#t=sq&q=j&d=montreal&li=10&j=montreal)
+* [Hexoskin](http://www.hexoskin.com/)
 * [Idilia](http://www.idilia.com/)
 * [Imagination for People](http://imaginationforpeople.org/en/)
 * Mantika inc.
