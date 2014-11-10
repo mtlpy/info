@@ -80,7 +80,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Océan itératif / Iterative Ocean
 * [Outbox Technology](http://www.outboxtechnology.com/)
 * [PasswordBox](https://www.passwordbox.com)
-* [Photonic Knowledge](http://www.photonicknowledge.com/)
 * [Pivotal Payments](http://www.pivotalpayments.com/)
 * [Plotly](https://plot.ly/)
 * [Radialpoint](www.radialpoint.com/)
