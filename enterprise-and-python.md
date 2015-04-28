@@ -52,6 +52,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [BullBear](http://www.bullbear.ca/)
 * [Busbud](http://www.busbud.com/en/)
 * [Canonical](http://www.canonical.com/careers)
+* [Cloud.ca](https://cloud.ca/)
 * [Cossette](http://www.cossette.com/)
 * [DTI Software inc.](http://dtisoftware.com/)
 * [Datacratic](http://datacratic.com/site/)
@@ -80,7 +81,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Nuance Communications](http://www.nuance.com/index.htm)
 * Océan itératif / Iterative Ocean
 * [Outbox Technology](http://www.outboxtechnology.com/)
-* [PasswordBox](https://www.passwordbox.com)
+* [PasswordBox](https://www.passwordbox.com) // Intel Corporation
 * [Pivotal Payments](http://www.pivotalpayments.com/)
 * [Plotly](https://plot.ly/)
 * [Radialpoint](www.radialpoint.com/)
