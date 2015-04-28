@@ -93,3 +93,4 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Tata Communications](http://www.tatacommunications.com/)
 * [Ubisoft](https://www.ubisoftgroup.com/fr-FR/recrutement/index.aspx)
 * [Vision Globale](http://www.visionglobale.com/)
+* [Yellow Pages](http://www.yellowpages.com/)
