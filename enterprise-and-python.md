@@ -40,7 +40,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Openstack
 
-* [eNovance](https://www.enovance.com/)
+* [eNovance](https://www.enovance.com/) / [redhat](http://www.redhat.com/en/about/offices)
 * [iWeb](http://iweb.com/)
 
 ## Other
@@ -68,6 +68,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Idilia](http://www.idilia.com/)
 * [Imagination for People](http://imaginationforpeople.org/en/)
 * [Lightspeed Retail](http://www.lightspeedretail.com/)
+* [Linagora](https://www.linagora.com)
 * Mantika inc.
 * [Matrox](http://www.matrox.com/)
 * [Mikros Image](http://www.mikrosimage.ca/)
