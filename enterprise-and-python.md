@@ -19,6 +19,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Service régional d'admission du montréal métropolitain (SRAM)](https://www.sram.qc.ca/home)
 * [Tata Communications](http://www.tatacommunications.com/)
 * [Ubity](http://ubity.com/)
+* [Bluenove](http://bluenove.com/) / [Imagination for People](http://imaginationforpeople.org)
 
 ## Django
 
