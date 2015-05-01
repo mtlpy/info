@@ -34,6 +34,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Office National du Film](https://www.onf.ca/)
 * [Reptiletech](http://www.reptiletech.com/en/)
 * [Savoir-Faire Linux](https://www.savoirfairelinux.com/en/)
+* [Shutterstock](http://www.shutterstock.com)
 * [SolversMarket](http://solversmarket.com/)
 * [w.illi.am/](http://w.illi.am/fr/)
 * [Wajam](http://www.wajam.com/)
