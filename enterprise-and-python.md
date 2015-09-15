@@ -70,6 +70,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Hexoskin](http://www.hexoskin.com/)
 * [Idilia](http://www.idilia.com/)
 * [Imagination for People](http://imaginationforpeople.org/en/)
+* [Jeppesen](http://ww1.jeppesen.com/index.jsp)
 * [Lightspeed Retail](http://www.lightspeedretail.com/)
 * [Linagora](https://www.linagora.com)
 * Mantika inc.
