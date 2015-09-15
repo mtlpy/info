@@ -51,7 +51,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [ChallengeU](http://challengeu.com/)
 * [Autodesk](http://www.autodesk.com/)
 * [Brandicted](https://brandicted.com/)
-* [BullBear](http://www.bullbear.ca/)
 * [Busbud](http://www.busbud.com/en/)
 * [Canonical](http://www.canonical.com/careers)
 * [Cloud.ca](https://cloud.ca/)
