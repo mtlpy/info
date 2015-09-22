@@ -28,6 +28,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Auto123](http://www.auto123.com/en/)
 * [Bunch](https://www.joinbunch.com/)
 * [Caravan.coop](http://caravan.coop/en/)
+* [Datavalet](http://datavalet.com/)
 * [Ecometrica](http://ecometrica.com/)
 * [ListRunner](http://listrunnerapp.com/)
 * [Nurun](https://www.nurun.com/en/)
