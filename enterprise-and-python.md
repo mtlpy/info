@@ -93,6 +93,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Shopify](http://www.shopify.ca/)
 * [Shotgun Software](https://www.shotgunsoftware.com/)
 * [Société des arts technologiques](https://sat.qc.ca/)
+* [StudioQi](http://www.studioqi.ca/)
 * [Tata Communications](http://www.tatacommunications.com/)
 * [Ubisoft](https://www.ubisoftgroup.com/fr-FR/recrutement/index.aspx)
 * [Vision Globale](http://www.visionglobale.com/)
