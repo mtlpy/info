@@ -51,6 +51,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Airmailplus](http://airmailplus.com/)
 * [ChallengeU](http://challengeu.com/)
 * [Autodesk](http://www.autodesk.com/)
+* [Bewave](http://www.bewave.io/) (Zato, Django and more...)
 * [Brandicted](https://brandicted.com/)
 * [BullBear](http://www.bullbear.ca/)
 * [Busbud](http://www.busbud.com/en/)
