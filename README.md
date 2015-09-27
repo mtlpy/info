@@ -1,6 +1,6 @@
-# Montréal-Python Infos
+# Montréal-Python Info
 
-General public information from the Python user group of Montréal.
+General public information from Montreal's Python user group.
 
 ## Documents 
 
