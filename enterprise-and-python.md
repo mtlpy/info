@@ -63,7 +63,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Digital Dimension](http://www.digitaldimension.com/)
 * [DogSyncApp](http://dogsyncapp.com/)
 * [E-180](http://www.e-180.com/)
-* [Eightysix Labs](http://www.eightysix.is/)
 * [Environnment Canada - Service météorologique](https://weather.gc.ca/canada_e.html)
 * [FibreNoire](http://www.fibrenoire.ca/)
 * [Framestore](http://www.framestore-cfc.com)
