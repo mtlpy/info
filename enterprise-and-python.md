@@ -55,6 +55,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Brandicted](https://brandicted.com/)
 * [BullBear](http://www.bullbear.ca/)
 * [Busbud](http://www.busbud.com/en/)
+* [Cadens Imaging](http://www.cadensimaging.com/)
 * [Canonical](http://www.canonical.com/careers)
 * [Cloud.ca](https://cloud.ca/)
 * [Cossette](http://www.cossette.com/)
