@@ -20,6 +20,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Tata Communications](http://www.tatacommunications.com/)
 * [Ubity](http://ubity.com/)
 * [Bluenove](http://bluenove.com/) / [Imagination for People](http://imaginationforpeople.org)
+* [ROIVision](http://www.roivision.com/)
 
 ## Django
 
