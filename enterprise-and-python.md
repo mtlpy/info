@@ -12,7 +12,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Pyramid + Pylons
 
 * [Ajah](http://ajah.ca/home/)
-* [GraffMap](http://graffmap.com/)
 * [BitCredits.io](http://BitCredits.io/)
 * [Ludia](http://www.ludia.com/)
 * [Real Fan Blast](http://www.realfanblast.com/)
