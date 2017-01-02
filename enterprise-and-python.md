@@ -38,7 +38,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Savoir-Faire Linux](https://www.savoirfairelinux.com/en/)
 * [Shutterstock](http://www.shutterstock.com)
 * [SolversMarket](http://solversmarket.com/)
-* [w.illi.am/](http://w.illi.am/fr/)
+* [valtech (formerly w.illi.am)](https://www.valtech.ca/)
 * [Wajam](http://www.wajam.com/)
 * [Moving Picture Companies](http://www.moving-picture.com/)
 
