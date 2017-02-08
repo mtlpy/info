@@ -53,7 +53,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Autodesk](http://www.autodesk.com/)
 * [Bewave](http://www.bewave.io/) (Zato, Django and more...)
 * [Brandicted](https://brandicted.com/)
-* [BullBear](http://www.bullbear.ca/)
 * [Busbud](http://www.busbud.com/en/)
 * [Cadens Imaging](http://www.cadensimaging.com/)
 * [Canonical](http://www.canonical.com/careers)
