@@ -84,6 +84,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [NeuroRx](http://www.neurorx.com/)
 * [Nuance Communications](http://www.nuance.com/index.htm)
 * Océan itératif / Iterative Ocean
+* [Oohlala](http://www.oohlalamobile.com/)
 * [Outbox Technology](http://www.outboxtechnology.com/)
 * [PasswordBox](https://www.passwordbox.com) // Intel Corporation
 * [Pivotal Payments](http://www.pivotalpayments.com/)
