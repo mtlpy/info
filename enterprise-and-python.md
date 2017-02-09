@@ -60,6 +60,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Cossette](http://www.cossette.com/)
 * [DTI Software inc.](http://dtisoftware.com/)
 * [Datacratic](http://datacratic.com/site/)
+* [Delve-Labs](https://www.delve-labs.com/)
 * [Digital Dimension](http://www.digitaldimension.com/)
 * [DogSyncApp](http://dogsyncapp.com/)
 * [E-180](http://www.e-180.com/)
