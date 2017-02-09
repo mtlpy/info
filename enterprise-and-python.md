@@ -98,5 +98,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [StudioQi](http://www.studioqi.ca/)
 * [Tata Communications](http://www.tatacommunications.com/)
 * [Ubisoft](https://www.ubisoftgroup.com/fr-FR/recrutement/index.aspx)
+* [Unito](https://unito.io/)
 * [Vision Globale](http://www.visionglobale.com/)
 * [Yellow Pages](http://www.yellowpages.com/)
