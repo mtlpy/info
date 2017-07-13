@@ -27,6 +27,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Archambault](http://www.archambault.ca/)
 * [Auto123](http://www.auto123.com/en/)
 * [Bunch](https://www.joinbunch.com/)
+* [CyberPublicity](https://www.cyberpublicity.com/)
 * [Caravan](http://caravan.coop/)
 * [Datavalet](http://datavalet.com/)
 * [Ecometrica](http://ecometrica.com/)
