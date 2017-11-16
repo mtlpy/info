@@ -50,6 +50,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Other
 
 * [Airmailplus](http://airmailplus.com/)
+* [Algolux](http://algolux.com/)
 * [ChallengeU](http://challengeu.com/)
 * [Autodesk](http://www.autodesk.com/)
 * [Bewave](http://www.bewave.io/) (Zato, Django and more...)
