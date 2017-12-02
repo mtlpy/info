@@ -5,11 +5,11 @@ Présentation
 ------------
 
 **Français**:
-Voici une liste d'entreprises utilisant Python à Montréal. 
+Voici une liste d'entreprises utilisant Python à Montréal.
 Si votre entreprise fait du Python et n'y figure pas: ouvrez une pull-request.
 
-**English**: 
-Here is a list of companies using Python in Montreal. 
+**English**:
+Here is a list of companies using Python in Montreal.
 Fork and open a pull request to update this list.
 
 ## Pyramid + Pylons
@@ -34,6 +34,7 @@ Fork and open a pull request to update this list.
 * [CyberPublicity](https://www.cyberpublicity.com/)
 * [Datavalet](http://datavalet.com/)
 * [Ecometrica](http://ecometrica.com/)
+* [impak Finance](https://www.impakfinance.com/)
 * [ListRunner](http://listrunnerapp.com/)
 * [Nurun](https://www.nurun.com/en/)
 * [Office National du Film](https://www.onf.ca/)
