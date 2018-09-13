@@ -96,7 +96,6 @@ Fork and open a pull request to update this list.
 * [PasswordBox](https://www.passwordbox.com) // Intel Corporation
 * [Pivotal Payments](http://www.pivotalpayments.com/)
 * [Plotly](https://plot.ly/)
-* [Radialpoint](https://www.radialpoint.com/)
 * [Rodeo FX](http://www.rodeofx.com/)
 * [SecureOps](https://www.secureops.com/)
 * [Shopify](http://www.shopify.ca/)
