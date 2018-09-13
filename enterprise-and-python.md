@@ -15,7 +15,7 @@ Fork and open a pull request to update this list.
 ## Pyramid + Pylons
 
 * [Ajah](http://ajah.ca/home/)
-* [BitCredits.io](http://BitCredits.io/)
+* [BitCredits.io](http://bitcredits.io/)
 * [Ludia](http://www.ludia.com/)
 * [Real Fan Blast](http://www.realfanblast.com/)
 * [Service régional d'admission du montréal métropolitain (SRAM)](https://www.sram.qc.ca/home)
@@ -96,7 +96,7 @@ Fork and open a pull request to update this list.
 * [PasswordBox](https://www.passwordbox.com) // Intel Corporation
 * [Pivotal Payments](http://www.pivotalpayments.com/)
 * [Plotly](https://plot.ly/)
-* [Radialpoint](www.radialpoint.com/)
+* [Radialpoint](https://www.radialpoint.com/)
 * [Rodeo FX](http://www.rodeofx.com/)
 * [SecureOps](https://www.secureops.com/)
 * [Shopify](http://www.shopify.ca/)
